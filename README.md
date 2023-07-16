@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=3066BE&center=true&width=435&lines=API+De+CEP+em+ReactJs">
 </div>
 <br>
-<p align="center">Projeto realizado em React.Js, com o intuito de utilizar a API 'viacep' para consultas de endereço. Foi adicionado ao mesmo projeto o sistema de tema DarkMode e LightMode, ambos sendo guardados no localStorage.<p>
+<p align="center">Projeto realizado em React.Js, com o intuito de utilizar a API 'viacep' para consultas de endereço. Foi adicionado ao mesmo projeto o sistema de tema DarkMode e LightMode, ambos sendo guardados no localStorage. Além disso, utilizei o SweetAlert2 para exibir os dados do CEP.<p>
 <p  align="center"><a href="https://barbourdev.github.io/API-CEP/" target="_blank">Veja o projeto hospedado, clique aqui!<a/></p>
   
 ##
